@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resources/713372-200.png</file>
+        <file>resources/airplane-take-off-icon-airplane-1156291325186q3by6zc3.png</file>
+        <file>resources/airport_700.jpg</file>
+        <file>resources/png-transparent-aerodrome-airfield-airplane-airport-plane-transportasi-travel-transportasi-versi-outline-icon.png</file>
+        <file>resources/png-transparent-symbol-time-computer-icons-logo-symbol-miscellaneous-angle-logo-thumbnail.png</file>
+        <file>resources/from.png</file>
+        <file>resources/photo_320273.jpeg</file>
+    </qresource>
+</RCC>
